@@ -17,6 +17,9 @@
         tools:ignore="GoogleAppIndexingWarning"
         tools:targetApi="29">
         <activity
+            android:name=".MainActivity4"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity3"
             android:exported="false" />
         <activity
